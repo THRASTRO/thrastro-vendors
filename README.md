@@ -1,2 +1,3 @@
-# thrastro-vendors
-Vendor libraries
+# THRASTRO Vendor Libraries
+
+This repository contains patched base THREE.js libraries.
